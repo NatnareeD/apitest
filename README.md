@@ -1,11 +1,11 @@
 java version 11
 database: ssotest
 
-host: localhost
-port: 5432
-database: ssotest
-username: ssodev
-password: sso2022ok
+* host: localhost
+* port: 5432
+* database: ssotest
+* username: ssodev
+* password: sso2022ok
 
 swagger ling
 http://localhost:8080/apitest/swagger-ui.html
