@@ -30,6 +30,6 @@ http://localhost:8080/apitest/swagger-ui.html
   "tokenid": "eyJzdWIiOiIxMjM0IiwiYXVkIjpbImFkbWluIl0sImlzcyI6Im1hc29uLm1ldGFtdWcubmV0IiwiZXhwIjoxNTc0NTEyNzY1LCJpYXQiOjE1NjY3MzY3NjUsImp0aSI6ImY3YmZlMzNmLTdiZjctNGViNC04ZTU5LTk5MTc5OWI1ZWI4YSJ9"
 }
 
-กด refresh ใน database
+กด refresh ใน database (br)
 หากขึ้น Failed to load remote configuration. ให้ใส่ /apitest/api-docs ตรง Explore
 
