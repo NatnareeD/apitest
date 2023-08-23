@@ -31,5 +31,5 @@ http://localhost:8080/apitest/swagger-ui.html
 }
 
 กด refresh ใน database
-* หากขึ้น Failed to load remote configuration. ให้ใส่ /apitest/api-docs ตรง Explore
+หากขึ้น Failed to load remote configuration. ให้ใส่ /apitest/api-docs ตรง Explore
 
